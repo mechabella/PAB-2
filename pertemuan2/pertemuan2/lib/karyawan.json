@@ -1,0 +1,24 @@
+[
+    {
+        "nama" : "Jihan Ghassani",
+        "umur" : 19,
+        "alamat" : {
+            "jalan" : "Jl. Dwikora",
+            "kota" : "Palembang",
+            "provinsi" : "Sumatera Selatan"
+        },
+        "hobi" : ["membaca", "berenang"]
+
+    },
+    {
+        "nama" : "Bryant Ansky",
+        "umur" : 19,
+        "alamat" : {
+            "jalan" : "Jl. Alang-alang lebar",
+            "kota" : "Palembang",
+            "provinsi" : "Sumatera Selatan"
+        },
+        "hobi" : ["bermain game", "berenang"]
+
+    }
+]
